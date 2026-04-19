@@ -1,3 +1,11 @@
+# ⚠️ Experimental / 实验性质项目
+
+> **This project is an exploration and prototype. Modern AI models already have built-in safety confirmation and behavior mechanisms — Axiom's value as a standalone tool is limited.**
+>
+> 本项目是一次思路探索。现代模型本身已有内置的安全确认机制，Axiom 作为独立工具价值有限。
+
+---
+
 # Axiom
 
 > **The cognitive layer that makes AI reliable.**
