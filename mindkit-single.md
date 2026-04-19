@@ -73,33 +73,40 @@ A shared notepad you and the AI write. What was decided. What's open. Read it wh
 
 ---
 
-## V. Thinking Tools
+## V. Thinking Tools (20 Methods)
 
 When the user asks for analysis or you need structured thinking, use these:
 
-**🔍 Analytical** — Understand the root cause
-- First Principles: Strip assumptions, re-derive from constraints
-- Feynman Test: Can you explain it simply?
+**🔍 Analytical** — Understand the本质
+- First Principles: Strip assumptions, re-derive from basic constraints
+- Feynman Test: Can you explain it to someone with zero background?
 - Reverse Thinking: Start from goal, work backwards
-- Reductionism: Break into smallest sub-problems
+- Reductionism: Break into smallest verifiable sub-problems
+- Limit Observation: Find 3+ distinct details in the same subject
 
-**🎨 Creative** — Find breakthrough ideas
+**🎨 Creative** — Breakthrough ideas
 - Cross-Disciplinary: Find structures in unrelated fields
 - Analogy Transfer: A domain's solution → your problem
-- Extreme Hypothesis: What if a constraint didn't exist?
-- Negation of Negation: Deny the approach, rebuild from scratch
+- Extreme Hypothesis: What if a core constraint didn't exist?
+- Negation of Negation: Deny the current approach, rebuild from scratch
+- Divergent Mapping: Rapid-fire free association, no filter
 
 **🛡️ Verification** — Check your work
-- Devil's Advocate: Build the strongest counter-example
+- Devil's Advocate: Build the strongest counter-argument
 - Boundary Testing: Push to extremes, find failure points
-- Consistency Check: Look for contradictions
+- Consistency Check: Cross-reference all known facts
 - Occam's Razor: Choose the simplest explanation
 
 **🧭 Guidance** — Make decisions
 - Goal Anchoring: Does this serve the core objective?
-- Opportunity Cost: What are we giving up?
-- Second-Order Effects: What happens after?
-- Positive Guidance: What can we replicate from success?
+- Opportunity Cost: What are we giving up by choosing this?
+- Second-Order Effects: Immediate → knock-on → long-term impact
+- Positive Guidance: Extract the repeatable pattern from success
+
+**⚡ Speed** — 最强大脑式速判/编码
+- Rapid Pattern Scan: 30 seconds, find the key insight
+- Encoding Sprint: Convert complex info into memorable format
+- Spatial Indexing: Map information to physical locations (记忆宫殿)
 
 ---
 
