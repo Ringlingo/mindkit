@@ -1,0 +1,38 @@
+# Dependencies
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sync temp files
+.sync_temp/
+*.oss_reference
+*.bak
+
+# Personal data (NEVER commit these)
+INTUITION.md
+experience/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+*.egg
+.eggs/
+pip-log.txt
+pip-delete-this-directory.txt
